@@ -1,0 +1,98 @@
+{
+  "San Francisco": {
+    "url": "49ers.jpg"
+  },
+  "Chicago": {
+    "url": "bears.jpg"
+  },
+  "Cincinnati": {
+    "url": "bengals.jpg"
+  },
+  "Buffalo": {
+    "url": "bills.jpg"
+  },
+  "Denver": {
+    "url": "broncos.jpg"
+  },
+  "Cleveland": {
+    "url": "browns.jpg"
+  },
+  "Tampa Bay": {
+    "url": "buccaneers.jpg"
+  },
+  "Arizona": {
+    "url": "cardinals.jpg"
+  },
+  "San Diego": {
+    "url": "chargers.jpg"
+  },
+  "Kansas City": {
+    "url": "chiefs.jpg"
+  },
+  "Indianapolis": {
+    "url": "colts.jpg"
+  },
+  "Dallas": {
+    "url": "cowboys.jpg"
+  },
+  "Miami": {
+    "url": "dolphins.jpg"
+  },
+  "Philadelphia": {
+    "url": "eagles.jpg"
+  },
+  "Atlanta": {
+    "url": "falcons.jpg"
+  },
+  "New York Giants": {
+    "url": "giants.jpg"
+  },
+  "Jacksonville": {
+    "url": "jaguars.jpg"
+  },
+  "New York Jets": {
+    "url": "jets.jpg"
+  },
+  "Detroit": {
+    "url": "lions.jpg"
+  },
+  "Green Bay": {
+    "url": "packers.jpg"
+  },
+  "Carolina": {
+    "url": "panthers.jpg"
+  },
+  "New England": {
+    "url": "patriots.jpg"
+  },
+  "Oakland": {
+    "url": "raiders.jpg"
+  },
+  "Los Angeles": {
+    "url": "rams.jpg"
+  },
+  "Baltimore": {
+    "url": "ravens.jpg"
+  },
+  "New Orleans": {
+    "url": "saints.jpg"
+  },
+  "Seattle": {
+    "url": "seahawks.jpg"
+  },
+  "Pittsburgh": {
+    "url": "steelers.jpg"
+  },
+  "Houston": {
+    "url": "texans.jpg"
+  },
+  "Tennessee": {
+    "url": "titans.jpg"
+  },
+  "Minnesota": {
+    "url": "vikings.jpg"
+  },
+  "Washington": {
+    "url": "washington.jpg"
+  }
+}
