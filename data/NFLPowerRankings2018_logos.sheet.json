@@ -1,95 +1,95 @@
 {
-  "San Francisco": {
+  "49ers": {
     "url": "49ers.jpg"
   },
-  "Chicago": {
+  "Bears": {
     "url": "bears.jpg"
   },
-  "Cincinnati": {
+  "Bengals": {
     "url": "bengals.jpg"
   },
-  "Buffalo": {
+  "Bills": {
     "url": "bills.jpg"
   },
-  "Denver": {
+  "Broncos": {
     "url": "broncos.jpg"
   },
-  "Cleveland": {
+  "Browns": {
     "url": "browns.jpg"
   },
-  "Tampa Bay": {
+  "Buccaneers": {
     "url": "buccaneers.jpg"
   },
-  "Arizona": {
+  "Cardinals": {
     "url": "cardinals.jpg"
   },
-  "San Diego": {
+  "Chargers": {
     "url": "chargers.jpg"
   },
-  "Kansas City": {
+  "Chiefs": {
     "url": "chiefs.jpg"
   },
-  "Indianapolis": {
+  "Colts": {
     "url": "colts.jpg"
   },
-  "Dallas": {
+  "Cowboys": {
     "url": "cowboys.jpg"
   },
-  "Miami": {
+  "Dolphins": {
     "url": "dolphins.jpg"
   },
-  "Philadelphia": {
+  "Eagles": {
     "url": "eagles.jpg"
   },
-  "Atlanta": {
+  "Falcons": {
     "url": "falcons.jpg"
   },
-  "New York Giants": {
+  "Giants": {
     "url": "giants.jpg"
   },
-  "Jacksonville": {
+  "Jaguars": {
     "url": "jaguars.jpg"
   },
-  "New York Jets": {
+  "Jets": {
     "url": "jets.jpg"
   },
-  "Detroit": {
+  "Lions": {
     "url": "lions.jpg"
   },
-  "Green Bay": {
+  "Packers": {
     "url": "packers.jpg"
   },
-  "Carolina": {
+  "Panthers": {
     "url": "panthers.jpg"
   },
-  "New England": {
+  "Patriots": {
     "url": "patriots.jpg"
   },
-  "Oakland": {
+  "Raiders": {
     "url": "raiders.jpg"
   },
-  "Los Angeles": {
+  "Rams": {
     "url": "rams.jpg"
   },
-  "Baltimore": {
+  "Ravens": {
     "url": "ravens.jpg"
   },
-  "New Orleans": {
+  "Saints": {
     "url": "saints.jpg"
   },
-  "Seattle": {
+  "Seahawks": {
     "url": "seahawks.jpg"
   },
-  "Pittsburgh": {
+  "Steelers": {
     "url": "steelers.jpg"
   },
-  "Houston": {
+  "Texans": {
     "url": "texans.jpg"
   },
-  "Tennessee": {
+  "Titans": {
     "url": "titans.jpg"
   },
-  "Minnesota": {
+  "Vikings": {
     "url": "vikings.jpg"
   },
   "Washington": {

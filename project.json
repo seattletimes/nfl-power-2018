@@ -6,16 +6,16 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2017/sports/nfl-power-rankings"
+      "path": "2018/sports/nfl-power-rankings"
     }
   },
-  "title": "",
+  "title": "Seattle Times NFL Power Rankings",
   "description": "",
   "url": "",
   "slug": "",
   "tags": [],
   "image": "assets/social.jpg",
-  "sheets": ["1125Y16pcZbbuQxYgsEmEn0rQZz9zb-nvKirAxdHqLrk"],
+  "sheets": ["17lCC9GSF1LlSPj8ps0P-FLDydyOBeSrfU6UlFvw6gDA"],
   "production": true,
   "embedded": true
 }
