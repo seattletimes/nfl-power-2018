@@ -382,5 +382,197 @@
     "ranking": 32,
     "team": "Buffalo Bills",
     "blurb": "After making the playoffs in 2017, the Bills lost 47-3 to the Baltimore Ravens last weekend. It's only a matter of time until Buffalo is on the clock."
+  },
+  {
+    "week": 3,
+    "ranking": 1,
+    "team": "Los Angeles Rams",
+    "blurb": "The Rams have outscored their opponents 77-13 in their first two games."
+  },
+  {
+    "week": 3,
+    "ranking": 2,
+    "team": "Jacksonville Jaguars",
+    "blurb": "Jacksonville made a statement with a decisive home win over New England last week. If Blake Bortles is good, the Jaguars are great."
+  },
+  {
+    "week": 3,
+    "ranking": 3,
+    "team": "Kansas City Chiefs",
+    "blurb": "Patrick Mahomes has thrown 10 touchdown passes with zero interceptions in his first two games. Who needs Alex Smith, anyway?"
+  },
+  {
+    "week": 3,
+    "ranking": 4,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "I have to be honest: I didn't see this coming. With Ryan Fitzpatrick as their quarterback, the Bucs have beaten two of the NFL's preseason favorites to start their season. "
+  },
+  {
+    "week": 3,
+    "ranking": 5,
+    "team": "Minnesota Vikings",
+    "blurb": "The Vikings left Green Bay with a tie last weekend, but they also saw quarterback Kirk Cousins at his best, and that's a good sign going forward."
+  },
+  {
+    "week": 3,
+    "ranking": 6,
+    "team": "Philadelphia Eagles",
+    "blurb": "The bad news is that Philadelphia lost to the surprising Bucs last weekend. The good news: quarterback Carson Wentz is back."
+  },
+  {
+    "week": 3,
+    "ranking": 7,
+    "team": "New England Patriots",
+    "blurb": "The Patriots allowed 377 passing yards and four touchdown passes to Blake Bortles last weekend. You read that right."
+  },
+  {
+    "week": 3,
+    "ranking": 8,
+    "team": "Green Bay Packers",
+    "blurb": "As long as the Packers have arguably the best quarterback on Earth, they'll be a playoff contender."
+  },
+  {
+    "week": 3,
+    "ranking": 9,
+    "team": "Cincinnati Bengals",
+    "blurb": "Andy Dalton has thrown six touchdown passes and just one interception in his first two games. But the Colts and Ravens aren't exactly prime competition, either."
+  },
+  {
+    "week": 3,
+    "ranking": 10,
+    "team": "Denver Broncos",
+    "blurb": "The Broncos led the Raiders for exactly six seconds last Sunday. Six seconds were enough."
+  },
+  {
+    "week": 3,
+    "ranking": 11,
+    "team": "Atlanta Falcons",
+    "blurb": "In a match up of Matt Ryan and Cam Newton, the quarterback who ran for two touchdowns last weekend was Ryan. Really."
+  },
+  {
+    "week": 3,
+    "ranking": 12,
+    "team": "Miami Dolphins",
+    "blurb": "The Dolphins are 2-0, but those wins have come against the Titans (without Marcus Mariota) and the Jets. I remain unconvinced. "
+  },
+  {
+    "week": 3,
+    "ranking": 13,
+    "team": "Carolina Panthers",
+    "blurb": "The Panthers' offense is essentially all Cam Newton and Christian McCaffrey. The latter caught 14 -- yes, 14 -- passes last weekend from the running back position."
+  },
+  {
+    "week": 3,
+    "ranking": 14,
+    "team": "Los Angeles Chargers",
+    "blurb": "Phillip Rivers completed 85 percent of his passes in a win over the lowly Bills last week. That'll work."
+  },
+  {
+    "week": 3,
+    "ranking": 15,
+    "team": "New Orleans Saints",
+    "blurb": "Michael Thomas continues to establish himself as one of the top wide receivers in the NFL, after racking up 12 catches and two touchdowns in a win over Cleveland last week."
+  },
+  {
+    "week": 3,
+    "ranking": 16,
+    "team": "Dallas Cowboys",
+    "blurb": "The Cowboys' defense looks formidable. In last week's win over the Giants, rookie running back Saquon Barkley managed just 28 rushing yards on 11 carries."
+  },
+  {
+    "week": 3,
+    "ranking": 17,
+    "team": "Chicago Bears",
+    "blurb": "The 1-1 Bears will have a chance to start a winning streak on Sunday when they play one of the worst teams in the NFL, the Arizona Cardinals."
+  },
+  {
+    "week": 3,
+    "ranking": 18,
+    "team": "San Francisco 49ers",
+    "blurb": "The 49ers are not winless, but they did just barely skate by a thoroughly mediocre Lions team at home. The jury is still out on San Francisco. "
+  },
+  {
+    "week": 3,
+    "ranking": 19,
+    "team": "Baltimore Ravens",
+    "blurb": "Baltimore's defense couldn't stop Cincinnati last week. The Ravens need linebacker C.J. Mosley (bone bruise) to return, and soon."
+  },
+  {
+    "week": 3,
+    "ranking": 20,
+    "team": "Pittsburgh Steelers",
+    "blurb": "Ben Roethlisberger threw 60 times last week. That's an offense that misses Le'Veon Bell."
+  },
+  {
+    "week": 3,
+    "ranking": 21,
+    "team": "Tennessee Titans",
+    "blurb": "The Titans topped the Texans last week despite being outgained by 154 yards and forcing zero turnovers. It's hard to believe the better team won."
+  },
+  {
+    "week": 3,
+    "ranking": 22,
+    "team": "Indianapolis Colts",
+    "blurb": "The Colts' defense held Washington to just 65 rushing yards and nine points last week. It'll be hard to replicate that performance against the Eagles on Sunday."
+  },
+  {
+    "week": 3,
+    "ranking": 23,
+    "team": "New York Jets",
+    "blurb": "Through two games, rookie quarterback Sam Darnold has completed 66.1 percent of his passes, throwing for three touchdowns and three interceptions. "
+  },
+  {
+    "week": 3,
+    "ranking": 24,
+    "team": "Cleveland Browns",
+    "blurb": "Zane Gonzalez missed two field goals and two extra points against the Saints last week, essentially costing the Browns the game. Unsurprisingly, Gonzalez is now a free agent."
+  },
+  {
+    "week": 3,
+    "ranking": 25,
+    "team": "Seattle Seahawks",
+    "blurb": "The Seahawks need to get Bobby Wagner, K.J. Wright and Doug Baldwin back from injury. They also desperately need a win in their home opener against Dallas."
+  },
+  {
+    "week": 3,
+    "ranking": 26,
+    "team": "Houston Texans",
+    "blurb": "The Texans are 0-2. But at least they've got Will Fuller, who returned from an injury to catch eight passes for 113 yards and a touchdown last week."
+  },
+  {
+    "week": 3,
+    "ranking": 27,
+    "team": "Washington",
+    "blurb": "Washington is 1-1, but things could go south in a hurry. Its next four games are against Green Bay, New Orleans, Carolina and Dallas."
+  },
+  {
+    "week": 3,
+    "ranking": 28,
+    "team": "Oakland Raiders",
+    "blurb": "The Raiders are 0-2, but they've got a chance to rebound with upcoming games against Miami and Cleveland."
+  },
+  {
+    "week": 3,
+    "ranking": 29,
+    "team": "New York Giants",
+    "blurb": "Eli Manning was sacked six times last week and Saquon Barkley ran for just 28 yards. Not exactly how they drew it up."
+  },
+  {
+    "week": 3,
+    "ranking": 30,
+    "team": "Detroit Lions",
+    "blurb": "Detroit hired a renowned defensive coordinator as its head coach, then promptly allowed 78 points in its first two games. Figures."
+  },
+  {
+    "week": 3,
+    "ranking": 31,
+    "team": "Arizona Cardinals",
+    "blurb": "The bad news is that the Cardinals have scored a total of six points in their first two games and Sam Bradford is averaging a staggering four yards per attempt. There is no good news."
+  },
+  {
+    "week": 3,
+    "ranking": 32,
+    "team": "Buffalo Bills",
+    "blurb": "Bills cornerback Vontae Davis retired at halftime last week. And really, can you blame him?"
   }
 ]
