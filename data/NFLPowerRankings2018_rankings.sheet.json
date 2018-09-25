@@ -574,5 +574,197 @@
     "ranking": 32,
     "team": "Buffalo Bills",
     "blurb": "Bills cornerback Vontae Davis retired at halftime last week. And really, can you blame him?"
+  },
+  {
+    "week": 4,
+    "ranking": 1,
+    "team": "Los Angeles Rams",
+    "blurb": "The Rams have outscored their opponents 102-36 in their three wins. They'll have a challenge at home on Sunday against Minnesota's defense."
+  },
+  {
+    "week": 4,
+    "ranking": 2,
+    "team": "Kansas City Chiefs",
+    "blurb": "Patrick Mahomes has completed 66.7 percent of his passes, throwing 13 touchdown passes and zero interceptions. Safe to say the Chiefs have moved on from Alex Smith."
+  },
+  {
+    "week": 4,
+    "ranking": 3,
+    "team": "Miami Dolphins",
+    "blurb": "The Dolphins are 3-0 for the first time since 2013. They lost their next four games that season. They'll try to buck that trend in New England on Sunday. "
+  },
+  {
+    "week": 4,
+    "ranking": 4,
+    "team": "Philadelphia Eagles",
+    "blurb": "Carson Wentz is officially back from a torn ACL. Can that addition spark the Eagles' offense?"
+  },
+  {
+    "week": 4,
+    "ranking": 5,
+    "team": "New Orleans Saints",
+    "blurb": "Drew Brees threw for 396 yards and three touchdowns last weekend and ran for two more scores. The 39-year-old quarterback doesn't seem to be slowing down."
+  },
+  {
+    "week": 4,
+    "ranking": 6,
+    "team": "Tennessee Titans",
+    "blurb": "The Titans allowed just six points to Jacksonville last weekend and got quarterback Marcus Mariota back from injury. Next comes a test against the Super Bowl champion Eagles."
+  },
+  {
+    "week": 4,
+    "ranking": 7,
+    "team": "Jacksonville Jaguars",
+    "blurb": "The Jaguars thumped the Patriots and then scored six points in a loss to the Titans. It's hard to know what to make of Jacksonville at this point."
+  },
+  {
+    "week": 4,
+    "ranking": 8,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "The Fitzmagic ran out on Monday Night Football, as Ryan Fitzpatrick's three interceptions effectively sank the Buccaneers."
+  },
+  {
+    "week": 4,
+    "ranking": 9,
+    "team": "Washington",
+    "blurb": "Hello, Adrian Peterson. The veteran running back has reignited himself to the tune of 236 rushing yards, 4.2 yards per carry and three touchdowns in three games."
+  },
+  {
+    "week": 4,
+    "ranking": 10,
+    "team": "Chicago Bears",
+    "blurb": "Call it the Khalil Mack effect if you want to, but the 2-1 Bears lead the NFL with 14 sacks in three games."
+  },
+  {
+    "week": 4,
+    "ranking": 11,
+    "team": "Carolina Panthers",
+    "blurb": "Christian McCaffrey continues to be the focal point of the Panthers' offense, with 194 total yards in a win over the Bengals last weekend."
+  },
+  {
+    "week": 4,
+    "ranking": 12,
+    "team": "Baltimore Ravens",
+    "blurb": "The Ravens' pass defense has been a menace so far, rankings second in the NFL in opposing passer rating (67.6)."
+  },
+  {
+    "week": 4,
+    "ranking": 13,
+    "team": "Denver Broncos",
+    "blurb": "The jury is out on quarterback Case Keenum, who has thrown more interceptions (5) than touchdowns (3) and hasn't thrown a TD pass since the season opener."
+  },
+  {
+    "week": 4,
+    "ranking": 14,
+    "team": "Cincinnati Bengals",
+    "blurb": "Andy Dalton threw four interceptions in a loss to the Panthers last week. The Bengals hit the road to take on the Falcons on Sunday."
+  },
+  {
+    "week": 4,
+    "ranking": 15,
+    "team": "Minnesota Vikings",
+    "blurb": "How exactly did the Vikings get throttled at home by Josh Allen and the winless Bills? Days later, the answer is still a mystery."
+  },
+  {
+    "week": 4,
+    "ranking": 16,
+    "team": "Green Bay Packers",
+    "blurb": "Despite a lingering knee injury, quarterback Aaron Rodgers has thrown for 832 yards with six touchdowns and zero interceptions."
+  },
+  {
+    "week": 4,
+    "ranking": 17,
+    "team": "Cleveland Browns",
+    "blurb": "The Browns picked up their first win last week since Dec. 24, 2016. They can start a winning streak on Sunday against the Oakland Raiders."
+  },
+  {
+    "week": 4,
+    "ranking": 18,
+    "team": "Pittsburgh Steelers",
+    "blurb": "Ben Roethlisbeger had a prrolific performance on Monday night, throwing for 353 yards with three touchdowns and an interception. The Steelers are going to need him."
+  },
+  {
+    "week": 4,
+    "ranking": 19,
+    "team": "New England Patriots",
+    "blurb": "What's going on here? The Patriots fell to the winless Detroit Lions last weekend. Not they'll have to contend with the undefeated Miami Dolphins."
+  },
+  {
+    "week": 4,
+    "ranking": 20,
+    "team": "Atlanta Falcons",
+    "blurb": "Matt Ryan's 374 passing yards and five touchdowns weren't enough in s loss to the New Orleans Saints. The Falcons will hope to rebound against the Bengals on Sunday. "
+  },
+  {
+    "week": 4,
+    "ranking": 21,
+    "team": "Los Angeles Chargers",
+    "blurb": "The Chargers lost the battle of Los Angeles to the Rams last weekend. Maybe now they'll wise up and move back to San Diego."
+  },
+  {
+    "week": 4,
+    "ranking": 22,
+    "team": "Seattle Seahawks",
+    "blurb": "The Seahawks have a real opportunity to mount a winning streak, with the 0-3 Cardinals next on the schedule. But will Earl Thomas make the trip to Phoenix?"
+  },
+  {
+    "week": 4,
+    "ranking": 23,
+    "team": "Buffalo Bills",
+    "blurb": "The Bills dominated the Vikings last weekend, because life is meaningless and nothing makes sense."
+  },
+  {
+    "week": 4,
+    "ranking": 24,
+    "team": "Detroit Lions",
+    "blurb": "Matt Patricia's defense finally woke up in a win over his former team, the Patriots, last weekend. Now it gets to feed on the Cowboys' struggling offense."
+  },
+  {
+    "week": 4,
+    "ranking": 25,
+    "team": "Dallas Cowboys",
+    "blurb": "Dak Prescott has passed for just 145 yards per game and has just two touchdown passes to his name. Good luck naming the Cowboys' starting wide receivers."
+  },
+  {
+    "week": 4,
+    "ranking": 26,
+    "team": "New York Giants",
+    "blurb": "Eli Manning completed 86.2 percent of his passes in a win over the Texans last weekend, which tells you all you need to know about the Texans' secondary."
+  },
+  {
+    "week": 4,
+    "ranking": 27,
+    "team": "New York Jets",
+    "blurb": "The Jets lost to the Browns and a quarterback making the first appearance of his NFL career. The clock is ticking for Todd Bowles. "
+  },
+  {
+    "week": 4,
+    "ranking": 28,
+    "team": "Indianapolis Colts",
+    "blurb": "The good news is that Andrew Luck is back. The bad news is that he averaged just 4.1 yards per attempt against the Eagles."
+  },
+  {
+    "week": 4,
+    "ranking": 29,
+    "team": "San Francisco 49ers",
+    "blurb": "Jimmy Garoppolo's season is over because of a torn ACL. And guess what? The 49ers' season is essentially over, too."
+  },
+  {
+    "week": 4,
+    "ranking": 30,
+    "team": "Houston Texans",
+    "blurb": "The Texans have been outscored 55-19 in the first half this season. And yet, all three of their losses were one-score games."
+  },
+  {
+    "week": 4,
+    "ranking": 31,
+    "team": "Oakland Raiders",
+    "blurb": "Jon Gruden's Raiders are 0-3 and that Monday Night Football booth is looking cozier by the minute."
+  },
+  {
+    "week": 4,
+    "ranking": 32,
+    "team": "Arizona Cardinals",
+    "blurb": "The Cardinals rank dead last in scoring offense, with 20 total points in three games. Good luck, Josh Rosen."
   }
 ]
