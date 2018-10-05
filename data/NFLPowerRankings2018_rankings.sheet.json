@@ -681,7 +681,7 @@
     "week": 4,
     "ranking": 18,
     "team": "Pittsburgh Steelers",
-    "blurb": "Ben Roethlisbeger had a prrolific performance on Monday night, throwing for 353 yards with three touchdowns and an interception. The Steelers are going to need him."
+    "blurb": "Ben Roethlisbeger had a prolific performance on Monday night, throwing for 353 yards with three touchdowns and an interception. The Steelers are going to need him."
   },
   {
     "week": 4,
@@ -693,7 +693,7 @@
     "week": 4,
     "ranking": 20,
     "team": "Atlanta Falcons",
-    "blurb": "Matt Ryan's 374 passing yards and five touchdowns weren't enough in s loss to the New Orleans Saints. The Falcons will hope to rebound against the Bengals on Sunday. "
+    "blurb": "Matt Ryan's 374 passing yards and five touchdowns weren't enough in a loss to the New Orleans Saints. The Falcons will hope to rebound against the Bengals on Sunday. "
   },
   {
     "week": 4,
@@ -766,5 +766,197 @@
     "ranking": 32,
     "team": "Arizona Cardinals",
     "blurb": "The Cardinals rank dead last in scoring offense, with 20 total points in three games. Good luck, Josh Rosen."
+  },
+  {
+    "week": 5,
+    "ranking": 1,
+    "team": "Los Angeles Rams",
+    "blurb": "The Rams are undefeated and lead the NFL in total offense. Next up: a Seahawks secondary without Earl Thomas."
+  },
+  {
+    "week": 5,
+    "ranking": 2,
+    "team": "Kansas City Chiefs",
+    "blurb": "The Chiefs passed their first serious test of 2018, overcoming a 10-point fourth-quarter deficit to defeat the Broncos and remain undefeated."
+  },
+  {
+    "week": 5,
+    "ranking": 3,
+    "team": "Tennessee Titans",
+    "blurb": "Doubt if you must, but the Titans have topped the Jaguars and Eagles in back-to-back weeks. Better yet, they meet the hopeless Bills on Sunday."
+  },
+  {
+    "week": 5,
+    "ranking": 4,
+    "team": "Jacksonville Jaguars",
+    "blurb": "No surprise here, but the Jaguars lead the NFL in scoring defense and total defense. If Blake Bortles doesn't self-destruct, they win."
+  },
+  {
+    "week": 5,
+    "ranking": 5,
+    "team": "New Orleans Saints",
+    "blurb": "Alvin Kamara had 181 total yards and three touchdowns last weekend, and the Saints now get Mark Ingram back from suspension. That offense is scary."
+  },
+  {
+    "week": 5,
+    "ranking": 6,
+    "team": "Chicago Bears",
+    "blurb": "Mitch Trubisky threw for 354 yards and six (!) touchdowns last weekend. Are the Bears that good, or are the Bucs that bad?"
+  },
+  {
+    "week": 5,
+    "ranking": 7,
+    "team": "Washington",
+    "blurb": "Washington ranks second in the NFL in scoring defense and third in total defense. That defense will be tested against the Saints on Monday night."
+  },
+  {
+    "week": 5,
+    "ranking": 8,
+    "team": "Cincinnati Bengals",
+    "blurb": "The Bengals lost tight end Tyler Eifert last weekend but continue to get huge contributions from wide receiver Tyler Boyd, who caught 11 passes against the Falcons."
+  },
+  {
+    "week": 5,
+    "ranking": 9,
+    "team": "Baltimore Ravens",
+    "blurb": "The Ravens won in Pittsburgh last week and travel to Cleveland on Sunday with a chance to pull ahead in the AFC North."
+  },
+  {
+    "week": 5,
+    "ranking": 10,
+    "team": "Carolina Panthers",
+    "blurb": "On the heels of a bye week, newly-signed safety Eric Reid will make his Panthers debut in a home game against the Giants on Sunday."
+  },
+  {
+    "week": 5,
+    "ranking": 11,
+    "team": "Miami Dolphins",
+    "blurb": "The Dolphins' undefeated season was harpooned by the Patriots last week. Now it's up to Ryan Tannehill and Co. to pick up the pieces against two potential playoff teams in Cincinnati and Chicago."
+  },
+  {
+    "week": 5,
+    "ranking": 12,
+    "team": "Green Bay Packers",
+    "blurb": "The Packers have winnable games against the Lions and 49ers on the horizon. Their playoff hopes continue to rest on Aaron Rodgers' arm (and knee)."
+  },
+  {
+    "week": 5,
+    "ranking": 13,
+    "team": "New England Patriots",
+    "blurb": "Have the mighty Patriots awoken from their slumber? We'll find out when 2-2 New England hosts a former rival in the Colts on Thursday night."
+  },
+  {
+    "week": 5,
+    "ranking": 14,
+    "team": "Philadelphia Eagles",
+    "blurb": "Something is missing in Philadelphia. The good news is that wide receiver Alshon Jeffrey returned and produced eight catches for 105 yards and a touchdown in last week's loss to the Titans."
+  },
+  {
+    "week": 5,
+    "ranking": 15,
+    "team": "Denver Broncos",
+    "blurb": "The Broncos won their first two games by a comined four points and have since lost two straight. Things are trending downward in Denver,"
+  },
+  {
+    "week": 5,
+    "ranking": 16,
+    "team": "Los Angeles Chargers",
+    "blurb": "The Chargers eked past the 49ers last weekend, no thanks to placekicker Caleb Sturgis, who missed two extra points and a field goal attempt. In other words, the Chargers may be in the market for a kicker."
+  },
+  {
+    "week": 5,
+    "ranking": 17,
+    "team": "Seattle Seahawks",
+    "blurb": "The good news? The Seahawks have won two consecutive games. The bad news? They now run into the Rams without arguably their best player in Earl Thomas."
+  },
+  {
+    "week": 5,
+    "ranking": 18,
+    "team": "Dallas Cowboys",
+    "blurb": "The Cowboys needed a last-second field goal to drop Detroit last weekend. Running back Ezekiel Elliott ripped off 240 total yards and a touchdown in the win."
+  },
+  {
+    "week": 5,
+    "ranking": 19,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "Well, the Fitzmagic is officially gone. After two consecutive losses, the Bucs limp into the bye week with a decision to make regarding its starting quarterback."
+  },
+  {
+    "week": 5,
+    "ranking": 20,
+    "team": "Minnesota Vikings",
+    "blurb": "Whatever happened to that vaunted Vikings defense? That group ranks 21st in total defense and 22nd in scoring defense. They meet Philadelphia on Sunday in a game both teams need to win."
+  },
+  {
+    "week": 5,
+    "ranking": 21,
+    "team": "Cleveland Browns",
+    "blurb": "The Browns have tied one game and lost two more by a total of six points. Still, nearly winning doesn't count for much in the NFL."
+  },
+  {
+    "week": 5,
+    "ranking": 22,
+    "team": "Pittsburgh Steelers",
+    "blurb": "The Steelers were shut out in the second half of a home loss to division rival Baltimore last week. The LeVeon-less Steelers ran for a total of 19 yards on the night."
+  },
+  {
+    "week": 5,
+    "ranking": 23,
+    "team": "Houston Texans",
+    "blurb": "The Texans needed overtime to secure their first win of the season, over the Indianapolis Colts. Quarterback Deshaun Watson threw for 375 yards and two touchdowns and ran for another score."
+  },
+  {
+    "week": 5,
+    "ranking": 24,
+    "team": "Atlanta Falcons",
+    "blurb": "Dan Quinn's once-mighty Falcons defense has allowed 80 points in its last two games. Even Matt Ryan, Julio Jones and Calvin Ridley can't close that gap."
+  },
+  {
+    "week": 5,
+    "ranking": 25,
+    "team": "Indianapolis Colts",
+    "blurb": "Andrew Luck broke out against the Texans, passing 62 times for 464 yards and four touchdowns. But the Colts still lost, because they're the Colts."
+  },
+  {
+    "week": 5,
+    "ranking": 26,
+    "team": "Detroit Lions",
+    "blurb": "The Lions have beaten the Patriots and lost to the Jets, 49ers and Cowboys, who own a combined 1-8 record against the rest of the NFL. That was a confusing sentence."
+  },
+  {
+    "week": 5,
+    "ranking": 27,
+    "team": "San Francisco 49ers",
+    "blurb": "The 49ers are 0-1 in the C.J. Beathard Era this season. Without injured quarterback Jimmy Garoppolo, Beathard threw for 298 yards with two touchdowns and two interceptions against the Chargers."
+  },
+  {
+    "week": 5,
+    "ranking": 28,
+    "team": "Oakland Raiders",
+    "blurb": "Like the Texans, the Raiders needed overtime to beat a bad team and secure their first win. And like the Texans, the Raiders are not very good."
+  },
+  {
+    "week": 5,
+    "ranking": 29,
+    "team": "New York Giants",
+    "blurb": "Maybe the Giants have just gotten a tough early draw, with two of their three losses coming against the Jaguars and Saints. It won't get much easier with a road game at Carolina on Sunday."
+  },
+  {
+    "week": 5,
+    "ranking": 30,
+    "team": "New York Jets",
+    "blurb": "The Jets have averaged 13.7 points per game in their three consecutive losses. That's no surprise with a rookie quarterback (Sam Darnold) and few proven offensive weapons."
+  },
+  {
+    "week": 5,
+    "ranking": 31,
+    "team": "Buffalo Bills",
+    "blurb": "The Bills were shut out in Green Bay last weekend and Josh Allen completed less than half of his passes and threw two interceptions. It's going to be a bumpy ride."
+  },
+  {
+    "week": 5,
+    "ranking": 32,
+    "team": "Arizona Cardinals",
+    "blurb": "The bottom three teams in these power rankings are starting rookie quarterbacks. Can that be a coincidence? Probably not."
   }
 ]
