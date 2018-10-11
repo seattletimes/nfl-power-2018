@@ -958,5 +958,197 @@
     "ranking": 32,
     "team": "Arizona Cardinals",
     "blurb": "The bottom three teams in these power rankings are starting rookie quarterbacks. Can that be a coincidence? Probably not."
+  },
+  {
+    "week": 6,
+    "ranking": 1,
+    "team": "Kansas City Chiefs",
+    "blurb": "The Chiefs put up 30 points on one of the premier defenses in football to remain undefeated and claim the top spot in this week's rankings."
+  },
+  {
+    "week": 6,
+    "ranking": 2,
+    "team": "Los Angeles Rams",
+    "blurb": "The Rams' win in Seattle was not very convincing, but Todd Gurley II still ran for three touchdowns and Jared Goff threw for 321 yards to seal the deal."
+  },
+  {
+    "week": 6,
+    "ranking": 3,
+    "team": "New Orleans Saints",
+    "blurb": "Drew Brees completed an astronomical 26 of 29 passes (89.7 percent) in a Monday night win over Washington, throwing for 363 yards and passing Peyton Manning to claim the NFL career passing yard record in the process."
+  },
+  {
+    "week": 6,
+    "ranking": 4,
+    "team": "Chicago Bears",
+    "blurb": "The Bears come out of a bye with a 3-1 record and perhaps the best defensive player in football in linebacker Khalil Mack."
+  },
+  {
+    "week": 6,
+    "ranking": 5,
+    "team": "Cincinnati Bengals",
+    "blurb": "The Bengals are 4-1, but here's where things get tricky. Their next two games are against two playoff contenders in the Steelers and Chiefs."
+  },
+  {
+    "week": 6,
+    "ranking": 6,
+    "team": "Carolina Panthers",
+    "blurb": "Yes, Carolina needed a 63-yard Graham Gano field goal to top the 1-4 Giants. But at 4-1, the Panthers are tied with the Saints atop the NFC South."
+  },
+  {
+    "week": 6,
+    "ranking": 7,
+    "team": "New England Patriots",
+    "blurb": "I'm going to go out on a limb here and say that the Patriots are the best 3-2 team in the NFL. They can prove it against the undefeated Chiefs on Sunday."
+  },
+  {
+    "week": 6,
+    "ranking": 8,
+    "team": "Jacksonville Jaguars",
+    "blurb": "Blake Bortles completed 33 of 61 passes (64.1 percent) for 430 yards with one touchdown and four interceptions in a loss to the Chiefs last week. Maybe it's best not to let Bortles throw 61 times?"
+  },
+  {
+    "week": 6,
+    "ranking": 9,
+    "team": "Los Angeles Chargers",
+    "blurb": "The Chargers' three wins have come against three of the worst teams in the NFL (Bills, 49ers and Raiders) and their two losses have come against arguably the two best teams (Chiefs and Rams). So ... are the Chargers good?"
+  },
+  {
+    "week": 6,
+    "ranking": 10,
+    "team": "Minnesota Vikings",
+    "blurb": "The Vikings have produced a surprisingly shaky start, but back-to-back games against the Cardinals and Jets should help them right the ship."
+  },
+  {
+    "week": 6,
+    "ranking": 11,
+    "team": "Pittsburgh Steelers",
+    "blurb": "Despite a 2-2-1 record, the Steelers are somehow in last place in the AFC North. A win on Sunday against the division-leading Bengals would change that."
+  },
+  {
+    "week": 6,
+    "ranking": 12,
+    "team": "Miami Dolphins",
+    "blurb": "Ryan Tannehil has completed just 56.4 percent of his passes in the last two weeks, throwing for 285 yards with one touchdowns and three interceptions. That's not going to cut it."
+  },
+  {
+    "week": 6,
+    "ranking": 13,
+    "team": "Cleveland Browns",
+    "blurb": "The Browns have already played three overtimes, won two games by seven combined points and lost two games by six total points. They may not be good, but they're close."
+  },
+  {
+    "week": 6,
+    "ranking": 14,
+    "team": "Baltimore Ravens",
+    "blurb": "The Ravens were 4-16 on third down against the Browns last week, which might help explain their nine total points."
+  },
+  {
+    "week": 6,
+    "ranking": 15,
+    "team": "Tennessee Titans",
+    "blurb": "The Titans finished with 221 total yards in a loss to the Bills last week. They now rank 29th in the NFL in total offense (294 yards per game)."
+  },
+  {
+    "week": 6,
+    "ranking": 16,
+    "team": "Washington",
+    "blurb": "Washington rushed for just 39 yards and 2.2 yards per carry against a supposedly porous Saints defense last week. It won't get much easier against Carolina on Sunday."
+  },
+  {
+    "week": 6,
+    "ranking": 17,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "Jameis Winston will make his first start of the season against the 1-4 Falcons on Sunday. Considering Tampa Bay's horrendous defense, it might not matter."
+  },
+  {
+    "week": 6,
+    "ranking": 18,
+    "team": "Green Bay Packers",
+    "blurb": "Aaron Rodgers threw for 442 yards and three touchdowns last week and the Packers still lost to the 2-3 Lions. Of course, three turnovers didn't help."
+  },
+  {
+    "week": 6,
+    "ranking": 19,
+    "team": "Detroit Lions",
+    "blurb": "The Lions have beaten the Patriots and Packers and lost to the Jets, 49ers and Cowboys, because life is meaningless and the NFL makes no sense."
+  },
+  {
+    "week": 6,
+    "ranking": 20,
+    "team": "Philadelphia Eagles",
+    "blurb": "Things are looking bleak for the Eagles, who have lost two straight games and will continue without the services of starting running back Jay Ajayi (torn ACL)."
+  },
+  {
+    "week": 6,
+    "ranking": 21,
+    "team": "Seattle Seahawks",
+    "blurb": "After nearly upsetting the Rams last week, the Seahawks have an opportunity against the Raiders (1-4) and Lions (2-3) (with a bye week in between) to make a move up the rankings."
+  },
+  {
+    "week": 6,
+    "ranking": 22,
+    "team": "Houston Texans",
+    "blurb": "Deshaun Watson showcase his entire arsenal in an overtime win over the Cowboys last weekend, throwing for 375 yards and a touchdown and running for 40 more yards."
+  },
+  {
+    "week": 6,
+    "ranking": 23,
+    "team": "New York Jets",
+    "blurb": "Journeyman running back Isaiah Crowell has a career day against the Broncos last weekend, rushing for 219 yards and a touchdown on just 15 carries."
+  },
+  {
+    "week": 6,
+    "ranking": 24,
+    "team": "Buffalo Bills",
+    "blurb": "The Bills finished with 223 total yards and went 4-13 on third down last week ... and won. Rookie quarterback Josh Allen completed just 10 of 19 passes for 82 yards and an interception."
+  },
+  {
+    "week": 6,
+    "ranking": 25,
+    "team": "Denver Broncos",
+    "blurb": "The Broncos rank 30th in the NFL in rushing defense (139.6 yards per game) and opponent yards per carry (5.3). That's not a winning formula."
+  },
+  {
+    "week": 6,
+    "ranking": 26,
+    "team": "Dallas Cowboys",
+    "blurb": "The Cowboys rank 30th in the NFL in scoring offense, averaging just 16.6 points per game. The two teams behind them? The 1-4 Cardinals and the 2-3 Bills."
+  },
+  {
+    "week": 6,
+    "ranking": 27,
+    "team": "Atlanta Falcons",
+    "blurb": "How did the Falcons fall so far, so fast? They've lost three consecutive games and Dan Quinn's defense has allowed an average of 40.3 points per game during that span."
+  },
+  {
+    "week": 6,
+    "ranking": 28,
+    "team": "Indianapolis Colts",
+    "blurb": "Yes, the Colts are 1-4. But if you're looking for good news, quarterback Andrew Luck has thrown for 829 yards and seven touchdowns in his last two games."
+  },
+  {
+    "week": 6,
+    "ranking": 29,
+    "team": "New York Giants",
+    "blurb": "Three of the Giants' four losses have been by seven points or less. Still, that serves as little consolation in New York."
+  },
+  {
+    "week": 6,
+    "ranking": 30,
+    "team": "Oakland Raiders",
+    "blurb": "The Raiders are dead last in the NFL with just six sacks in five games this season. If only they had a dominant pass-rusher in his prime ..."
+  },
+  {
+    "week": 6,
+    "ranking": 31,
+    "team": "Arizona Cardinals",
+    "blurb": "Despite being outgained by 227 yards, the Cardinals beat the 49ers by 10 points last week. Five turnovers made that possible. "
+  },
+  {
+    "week": 6,
+    "ranking": 32,
+    "team": "San Francisco 49ers",
+    "blurb": "The two worst teams in the NFL both reside in the NFC West. I guess that qualifies as good news for the Seahawks."
   }
 ]
