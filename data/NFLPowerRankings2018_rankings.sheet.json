@@ -1534,5 +1534,197 @@
     "ranking": 32,
     "team": "Oakland Raiders",
     "blurb": "The Raiders traded wide receiver Amari Cooper to the Cowboys for a first-round pick this week. Let the rebuild begin! (1-5)"
+  },
+  {
+    "week": 9,
+    "ranking": 1,
+    "team": "Los Angeles Rams",
+    "blurb": "The Rams survived Aaron Rodgers and the Packers on Sunday. They remain the only undefeated team in the NFL. (8-0)"
+  },
+  {
+    "week": 9,
+    "ranking": 2,
+    "team": "New England Patriots",
+    "blurb": "The Patriots have won five straight. Two of the best quarterbacks in NFL history -- Tom Brady and Aaron Rodgers -- will meet on Sunday night. (6-2)"
+  },
+  {
+    "week": 9,
+    "ranking": 3,
+    "team": "Kansas City Chiefs",
+    "blurb": "Quarterback Patrick Mahomes is an MVP frontrunner in his first season as the starter, with 28 total touchdowns and six interceptions in eight games. (7-1)"
+  },
+  {
+    "week": 9,
+    "ranking": 4,
+    "team": "New Orleans Saints",
+    "blurb": "The Saints have won six consecutive games, and their last three wins have come against teams with a record at .500 or better. (6-1)"
+  },
+  {
+    "week": 9,
+    "ranking": 5,
+    "team": "Los Angeles Chargers",
+    "blurb": "The Chargers bring a four-game winning streak into Seattle on Sunday. The question is if, coming out of a bye week, running back Melvin Gordon will play. (5-2)"
+  },
+  {
+    "week": 9,
+    "ranking": 6,
+    "team": "Pittsburgh Steelers",
+    "blurb": "The Steelers have won three consecutive games, and without Le'Veon Bell, James Conner continues to prove himself as a competent RB1. (4-2-1)"
+  },
+  {
+    "week": 9,
+    "ranking": 7,
+    "team": "Carolina Panthers",
+    "blurb": "Cam Newton accounted for three touchdowns and did not commit a turnover in a win over the Ravens last weekend. Newton has completed a career-high 66.4 percent of his passes this season. (5-2)"
+  },
+  {
+    "week": 9,
+    "ranking": 8,
+    "team": "Washington",
+    "blurb": "Age is just a number. And, speaking of numbers, 33-year-old Adrian Peterson has rushed for 587 yards and 4.6 yards per carry this season. (5-2)"
+  },
+  {
+    "week": 9,
+    "ranking": 9,
+    "team": "Houston Texans",
+    "blurb": "Make it five consecutive wins for the Texans, who topped the Dolphins last week but lost speedy wide receiver Will Fuller to a torn ACL in the process. (5-3)"
+  },
+  {
+    "week": 9,
+    "ranking": 10,
+    "team": "Cincinnati Bengals",
+    "blurb": "The Bengals needed a 44-yard field goal as time expired to top Fitzmagic and the Tampa Bay Bucs last weekend. They also allowed 576 total yards in the process. (5-3)"
+  },
+  {
+    "week": 9,
+    "ranking": 11,
+    "team": "Seattle Seahawks",
+    "blurb": "The Seahawks have won four of their last five games and have committed just one turnover in their last 20 quarters. Bring on the 5-2 Chargers. (4-3)"
+  },
+  {
+    "week": 9,
+    "ranking": 12,
+    "team": "Chicago Bears",
+    "blurb": "Want to know the remedy for a two-game losing streak? Three straight games against the Jets, Bills and Lions. The Bears predictably took care of the Jets last weekend. (4-3)"
+  },
+  {
+    "week": 9,
+    "ranking": 13,
+    "team": "Minnesota Vikings",
+    "blurb": "The Vikings' three-game winning streak was snapped against the high-powered Saints at home last Sunday. Next up is three consecutive divisional games against the Lions, Bears and Packers. (4-3-1)"
+  },
+  {
+    "week": 9,
+    "ranking": 14,
+    "team": "Green Bay Packers",
+    "blurb": "The Packers had a chance to pull an upset of the undefeated Rams on the road last week. Instead, Ty Montgomery fumbled a kickoff and Aaron Rodgers was left standing on the sideline. (3-3-1)"
+  },
+  {
+    "week": 9,
+    "ranking": 15,
+    "team": "Philadelphia Eagles",
+    "blurb": "The defending Super Bowl champs have yet to win two consecutive games. They'll try to reverse that trend against the Cowboys after a much needed bye. (4-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 16,
+    "team": "Baltimore Ravens",
+    "blurb": "Supposedly the NFL's premier defense, the Ravens didn't look like it when they allowed 36 points to the Panthers last weekend. Up next is another high-powered offense in the Steelers. (4-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 17,
+    "team": "Miami Dolphins",
+    "blurb": "The Dolphins won their first three games but have dropped four of their last five. One reason? Their defense hasn't held a team to fewer than 27 points in their last five games. (4-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 18,
+    "team": "Atlanta Falcons",
+    "blurb": "The Falcons have won two straight games (against bad teams) and meet Washington coming out of a bye week. If Matt Ryan is going to make a run, now's the time. (3-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 19,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "Jameis Winston threw four interceptions in a loss to the Bengals last weekend. So, yeah, it's Ryan Fitzpatrick's job again. (3-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 20,
+    "team": "Detroit Lions",
+    "blurb": "The Lions rank 31st in the NFL in rushing defense, allowing 144.6 yards per game. Even with the addition of Damon \"Snacks\" Harrison, there's plenty left to prove. (3-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 21,
+    "team": "Dallas Cowboys",
+    "blurb": "The Cowboys fired their offensive line coach, Paul Alexander, on Monday. All is not well behind the scenes for the 3-4 Cowboys. (3-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 22,
+    "team": "Tennessee Titans",
+    "blurb": "The Titans have scored an average of 10.3 points during their three-game losing streak. Will a bye week fix that? We'll see on Monday night. (3-4)"
+  },
+  {
+    "week": 9,
+    "ranking": 23,
+    "team": "Indianapolis Colts",
+    "blurb": "Indianapolis is not a playoff team, but at least quarterback Andrew Luck -- who has thrown 23 touchdowns and eight interceptions -- looks like his old self. (3-5)"
+  },
+  {
+    "week": 9,
+    "ranking": 24,
+    "team": "Denver Broncos",
+    "blurb": "Yes, the Broncos are 3-5. But three of those five losses have come to the Chiefs and Rams, and they have come by a total of 13 points. Maybe they're capable of turning a corner? (3-5)"
+  },
+  {
+    "week": 9,
+    "ranking": 25,
+    "team": "Jacksonville Jaguars",
+    "blurb": "The free-fall continues for the 3-5 Jaguars, who have lost four consecutive games and scored an average of 11.5 points in those losses. (3-5)"
+  },
+  {
+    "week": 9,
+    "ranking": 26,
+    "team": "New York Jets",
+    "blurb": "Rookie quarterback Sam Darnold has completed just 43.6 percent of his passes in the Jets' last two games, both losses. That's not how you win games. (3-5)"
+  },
+  {
+    "week": 9,
+    "ranking": 27,
+    "team": "Buffalo Bills",
+    "blurb": "Without any hope at the quarterback position, the Bills have scored a total of 11 points in their last two games. At least the weather is nice in Buffalo, right? (2-6)"
+  },
+  {
+    "week": 9,
+    "ranking": 28,
+    "team": "Cleveland Browns",
+    "blurb": "The Browns fired head coach Hue Jackson and offensive coordinator Todd Haley on Monday, a day after the Cavaliers fired head coach Ty Lue. Such is life for a Cleveland sports fan. (2-5-1)"
+  },
+  {
+    "week": 9,
+    "ranking": 29,
+    "team": "Arizona Cardinals",
+    "blurb": "The Cardinals have won two games this season. Both were against the 49ers. This is not a coincidence. (2-6)"
+  },
+  {
+    "week": 9,
+    "ranking": 30,
+    "team": "New York Giants",
+    "blurb": "The Giants are 1-7. And after a bye week, they get to play in arguably the least interesting Monday Night Football game in history against the equally awful 49ers. Are you ready for some football? (1-7)"
+  },
+  {
+    "week": 9,
+    "ranking": 31,
+    "team": "Oakland Raiders",
+    "blurb": "The 1-6 Raiders, who have traded wide receiver Amari Cooper and linebacker Khalil Mack, are focused on the future. That's good, because their present leaves a lot to be desired. (1-6)"
+  },
+  {
+    "week": 9,
+    "ranking": 32,
+    "team": "San Francisco 49ers",
+    "blurb": "The 1-7 49ers will meet the 1-6 Raiders on Thursday night. Are we sure it's not possible for both teams to lose? (1-7)"
   }
 ]
