@@ -1726,5 +1726,197 @@
     "ranking": 32,
     "team": "San Francisco 49ers",
     "blurb": "The 1-7 49ers will meet the 1-6 Raiders on Thursday night. Are we sure it's not possible for both teams to lose? (1-7)"
+  },
+  {
+    "week": 10,
+    "ranking": 1,
+    "team": "New Orleans Saints",
+    "blurb": "The Saints have won seven straight games, with three of the last four coming against teams with winning records. Drew Brees and Co. are not a fluke (7-1)."
+  },
+  {
+    "week": 10,
+    "ranking": 2,
+    "team": "Kansas City Chiefs",
+    "blurb": "The Chiefs have scored at least 30 points in eight of nine games this season. With that kind of offense, who needs a defense? (8-1)"
+  },
+  {
+    "week": 10,
+    "ranking": 3,
+    "team": "Los Angeles Rams",
+    "blurb": "The king is dead (or at least, defeated). The Rams suffered their first loss of the season in New Orleans last weekend. They'll try to take out their frustration on Seattle on Sunday (8-1)."
+  },
+  {
+    "week": 10,
+    "ranking": 4,
+    "team": "New England Patriots",
+    "blurb": "Remember when the Patriots were 1-2? Me neither. Bill Belicheck's crew have ripped off six straight and show no signs of stopping (7-2)."
+  },
+  {
+    "week": 10,
+    "ranking": 5,
+    "team": "Los Angeles Chargers",
+    "blurb": "The Chargers picked up their first win over a team with a winning record in Seattle last weekend. And to make things better, they now got to pick on the hapless Raiders! (6-2)"
+  },
+  {
+    "week": 10,
+    "ranking": 6,
+    "team": "Pittsburgh Steelers",
+    "blurb": "The sky is not falling in Pittsburgh, where the Steelers have rebounded from a shaky start to win four straight. Next up is an intriguing match up with the Panthers on Thursday night (5-2-1). "
+  },
+  {
+    "week": 10,
+    "ranking": 7,
+    "team": "Carolina Panthers",
+    "blurb": "Speaking of the Panthers, Cam Newton has thrown six touchdown passes without an interception during his team's current three-game winning streak. That'll work (6-2)."
+  },
+  {
+    "week": 10,
+    "ranking": 8,
+    "team": "Houston Texans",
+    "blurb": "The Texans started 0-3 and are 6-0 since. In his first game as a Texan, Demaryius Thomas caught three passes for 61 yards in a win over his former flame, the Denver Broncos (6-3)."
+  },
+  {
+    "week": 10,
+    "ranking": 9,
+    "team": "Chicago Bears",
+    "blurb": "The Bears didn't need Khalil Mack (ankle) to put away the Bills last weekend. Next up is three straight games against divisonal opponents (5-3)."
+  },
+  {
+    "week": 10,
+    "ranking": 10,
+    "team": "Minnesota Vikings",
+    "blurb": "The Vikings have won foour of their last five games heading into a crucial NFC North road game at 5-3 Chicago this weekend (5-3-1)."
+  },
+  {
+    "week": 10,
+    "ranking": 11,
+    "team": "Cincinnati Bengals",
+    "blurb": "Wide receiver A.J. Green does not need surgery but will miss at least two games with an injured toe. When he returns, will the Bengals still be contenders? (5-3)"
+  },
+  {
+    "week": 10,
+    "ranking": 12,
+    "team": "Washington",
+    "blurb": "Former Seahawk wide receiver Paul Richardson (shoulder/knee) will have season-ending surgery, Jay Gruden said this week. Washington might not need him against the Bucs (5-3). "
+  },
+  {
+    "week": 10,
+    "ranking": 13,
+    "team": "Philadelphia Eagles",
+    "blurb": "The Eagles haven't looked like Super Bowl champions thus far, but they should benefit from the addition of wide receiver Golden Tate (4-4)."
+  },
+  {
+    "week": 10,
+    "ranking": 14,
+    "team": "Atlanta Falcons",
+    "blurb": "The Falcons aren't dead yet. Atlanta has answered a three-game losing streak with a three-game winning streak. Next up: the bumbling Browns (4-4)."
+  },
+  {
+    "week": 10,
+    "ranking": 15,
+    "team": "Miami Dolphins",
+    "blurb": "Miami is 5-4 but their wins have come over teams with a combined record of 15-27. Don't buy Dolphin stock just yet (5-4)."
+  },
+  {
+    "week": 10,
+    "ranking": 16,
+    "team": "Seattle Seahawks",
+    "blurb": "The Seahawks have yet to beat a team with a winning record. They can (but probably won't) change that on the road against the 8-1 Rams (4-4)"
+  },
+  {
+    "week": 10,
+    "ranking": 17,
+    "team": "Green Bay Packers",
+    "blurb": "Quarterback Aaron Rodgers is great but his supporting cast isn't good enough. Does any of that sound familiar? (3-4-1)"
+  },
+  {
+    "week": 10,
+    "ranking": 18,
+    "team": "Tennessee Titans",
+    "blurb": "Marcus Mariota passed for 240 yards and accounted for three touchdowns in Tennessee's win over Dallas on Monday night (4-4)."
+  },
+  {
+    "week": 10,
+    "ranking": 19,
+    "team": "Baltimore Ravens",
+    "blurb": "The Ravens enter a desperately needed by week having lost three straight (against three playoff contenders). Is it Lamar Jackson time in Baltimore? (4-5)"
+  },
+  {
+    "week": 10,
+    "ranking": 20,
+    "team": "Dallas Cowboys",
+    "blurb": "Amari Cooper registered a touchdown catch in his first game as a Cowboy, but Dallas has still lost two straight and three of their last four (3-5)."
+  },
+  {
+    "week": 10,
+    "ranking": 21,
+    "team": "Jacksonville Jaguars",
+    "blurb": "The Jaguars have lost four straight and Blake Bortles is still their starting quarterback. Nothing to see here (3-5)."
+  },
+  {
+    "week": 10,
+    "ranking": 22,
+    "team": "Detroit Lions",
+    "blurb": "Matthew Stafford was sacked 10 times in the Lions' divisional loss to Minnesota last weekend. The Detroit offense has suddenly disintegrated (3-5)."
+  },
+  {
+    "week": 10,
+    "ranking": 23,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "The Buccaneers have allowed 79 points in their last two games. Regardless of who the starting quarterback is, their defense is still terrible (3-5)."
+  },
+  {
+    "week": 10,
+    "ranking": 24,
+    "team": "Indianapolis Colts",
+    "blurb": "The Colts may be 3-5, but they have won two straight and have just one remaining opponent with a winning record. This could get interesting (3-5)."
+  },
+  {
+    "week": 10,
+    "ranking": 25,
+    "team": "Denver Broncos",
+    "blurb": "The Broncos traded Demaryius Thomas to the Texans, then immediately lost to the Texans. They've dropped six of their last seven (3-6)."
+  },
+  {
+    "week": 10,
+    "ranking": 26,
+    "team": "New York Jets",
+    "blurb": "Rookie quarterback Sam Darnold has thrown two touchdown passes and seven interceptions in the Jets' three-game losing streak. That's not going to cut it (3-6)."
+  },
+  {
+    "week": 10,
+    "ranking": 27,
+    "team": "Cleveland Browns",
+    "blurb": "New head coach, but same result. After firing Hue Jackson and Todd Haley last week, the Browns promptly lost to the Kansas City Chiefs (2-6-1)."
+  },
+  {
+    "week": 10,
+    "ranking": 28,
+    "team": "Arizona Cardinals",
+    "blurb": "The Cardinals have won two games this season, both against the 49ers. If they only played the 49ers, they might go undefeated (2-6)."
+  },
+  {
+    "week": 10,
+    "ranking": 29,
+    "team": "San Francisco 49ers",
+    "blurb": "Nick Mullens to the rescue? The undrafted rookie quarterback made his first career start last week and threw three touchdown passes in a win over the Raiders (2-7)."
+  },
+  {
+    "week": 10,
+    "ranking": 30,
+    "team": "New York Giants",
+    "blurb": "The 1-7 Giants play the 2-7 49ers on Monday night. So that might be a good day to visit relatives or go to a movie (1-7)."
+  },
+  {
+    "week": 10,
+    "ranking": 31,
+    "team": "Buffalo Bills",
+    "blurb": "The Bills haven't scored more than 13 points in any of their last five games and have scored 20 total points in their last three. Was that 2017 playoff appearance all a dream? (2-7)"
+  },
+  {
+    "week": 10,
+    "ranking": 32,
+    "team": "Oakland Raiders",
+    "blurb": "An unknown rookie named Nick Mullens torched the Raiders last week. Any guesses what Phillip Rivers will do on Sunday? (1-7)"
   }
 ]
