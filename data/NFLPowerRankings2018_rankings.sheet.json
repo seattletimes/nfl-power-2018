@@ -2686,5 +2686,389 @@
     "ranking": 32,
     "team": "San Francisco 49ers",
     "blurb": "The 49ers own a -20 turnover differential this season, which ranks last in the NFL. Oh, and according to The Times, so do they. (2-10)"
+  },
+  {
+    "week": 15,
+    "ranking": 1,
+    "team": "New Orleans Saints",
+    "blurb": "What makes the Saints a complete team? Despite all the talk about their offense, they also rank second in the NFL in scoring defense (18 PPG) in their last 11 games. (12-2)"
+  },
+  {
+    "week": 15,
+    "ranking": 2,
+    "team": "Kansas City Chiefs",
+    "blurb": "The Chiefs have won their two games by a total of 10 points since releasing Kareem Hunt. They'll face a difficul challenge against the Chargers on Thursday night. (11-2)"
+  },
+  {
+    "week": 15,
+    "ranking": 3,
+    "team": "Los Angeles Chargers",
+    "blurb": "Chargers running back Melvin Gordon is a game-time decision for Thursday's game against the Chiefs with a shoulder injury. Their back up running back, Austin Ekeler, is also out. (10-3)"
+  },
+  {
+    "week": 15,
+    "ranking": 4,
+    "team": "Los Angeles Rams",
+    "blurb": "The Rams' offense cracked under the winter conditions in Chicago last weekend. Luckily, two of their final three games come against the Cardinals and 49ers. (11-2)"
+  },
+  {
+    "week": 15,
+    "ranking": 5,
+    "team": "Chicago Bears",
+    "blurb": "The Bears made a statement in their home win over the Rams last weekend, but they lost cornerback Bryce Callahan to a broken foot in the process. (9-4)"
+  },
+  {
+    "week": 15,
+    "ranking": 6,
+    "team": "New England Patriots",
+    "blurb": "The bad news: the Patriots lost to the Dolphins on a miracle 69-yard Kenyan Drake catch and run. The good news: Rob Gronkowski won't be playing safety again anytime soon. (9-4)"
+  },
+  {
+    "week": 15,
+    "ranking": 7,
+    "team": "Houston Texans",
+    "blurb": "The Texans' nine-game winning streak was finally snapped by the Colts last weekend. Chances are they'll start a new streak against the Jets on Sunday. (9-4)"
+  },
+  {
+    "week": 15,
+    "ranking": 8,
+    "team": "Seattle Seahawks",
+    "blurb": "The Seahawks have won four straight games and are all but secured a spot in the playoffs. So much for a rebuilding season, huh? (8-5)"
+  },
+  {
+    "week": 15,
+    "ranking": 9,
+    "team": "Dallas Cowboys",
+    "blurb": "Dallas possesses the premier defense in the NFL. The Cowboys will take that defense into Indianapolis for a match up with Andrew Luck on Sunday. (8-5)"
+  },
+  {
+    "week": 15,
+    "ranking": 10,
+    "team": "Indianapolis Colts",
+    "blurb": "Andrew Luck is enjoying perhaps his best season as a pro, passing for 3,759 yards (67.7 percent) and 34 touchdowns with 13 interceptions. The Cowboys may have something to say about that on Sunday. (7-6)"
+  },
+  {
+    "week": 15,
+    "ranking": 11,
+    "team": "Tennessee Titans",
+    "blurb": "The Titans may be primed for a playoff push but they better not overlook the Giants, who have quietly won four of their last five games. (7-6)"
+  },
+  {
+    "week": 15,
+    "ranking": 12,
+    "team": "Miami Dolphins",
+    "blurb": "Let's be honest: the Dolphins didn't deserve to beat the Patriots. But with their last three games against the Vikings, Jags and Bills, the Miami Miracle may be the beginning of a playoff push. (7-6)"
+  },
+  {
+    "week": 15,
+    "ranking": 13,
+    "team": "Baltimore Ravens",
+    "blurb": "With Joe Flacco expected to be active against the Bucs this weekend, will he or rookie Lamar Jackson start? Will both play? We'll find out on Sunday. (7-6)"
+  },
+  {
+    "week": 15,
+    "ranking": 14,
+    "team": "Pittsburgh Steelers",
+    "blurb": "The Steelers have inexplicably stumbled with three consecutive losses. With back-to-back games against the Patriots and Saints on deck, are they about to miss the playoffs? (7-5-1)"
+  },
+  {
+    "week": 15,
+    "ranking": 15,
+    "team": "Philadelphia Eagles",
+    "blurb": "The defending Super Bowl champs are 6-7 and two of their final three games come against the Rams and Texans. In other words, they're cooked. (6-7)"
+  },
+  {
+    "week": 15,
+    "ranking": 16,
+    "team": "Denver Broncos",
+    "blurb": "The Broncos' late-season playoff push came to a screeching halt with a 20-14 upset loss at San Francisco last weekend. Going 2-15 on third down certainly didn't help. (6-7)"
+  },
+  {
+    "week": 15,
+    "ranking": 17,
+    "team": "Minnesota Vikings",
+    "blurb": "After the Vikings managed just seven points in a loss at Seattle on Monday night they fired offensive coordinator John DeFilippo less than 24 hours later. (6-6-1)"
+  },
+  {
+    "week": 15,
+    "ranking": 18,
+    "team": "Green Bay Packers",
+    "blurb": "The Packers are 1-0 in the post-Mike McCarthy Era. But it's still likely too little, too late for Aaron Rodgers and Co. (5-7-1)"
+  },
+  {
+    "week": 15,
+    "ranking": 19,
+    "team": "Cleveland Browns",
+    "blurb": "The Cleveland Browns have won three of their last four games. For fans, 5-7-1 must feel more like 13-0. (5-7-1)"
+  },
+  {
+    "week": 15,
+    "ranking": 20,
+    "team": "Carolina Panthers",
+    "blurb": "The Panthers have lost five consecutive games and two of their final three contests come against the 11-2 Saints. This has been a stunning collapse for Cam Newton and Co. (6-7)"
+  },
+  {
+    "week": 15,
+    "ranking": 21,
+    "team": "New York Giants",
+    "blurb": "Saquon Barkley has rushed for at least 100 yards  in four consecutive games. Forget Eli Manning and Odell Beckham Jr. Saquon is the future in New York. (5-8)"
+  },
+  {
+    "week": 15,
+    "ranking": 22,
+    "team": "Washington",
+    "blurb": "Mark Sanchez is Washington's starting quarterback in 2018. There will not be a playoff push in the nation's capital. (6-7)"
+  },
+  {
+    "week": 15,
+    "ranking": 23,
+    "team": "Detroit Lions",
+    "blurb": "The Lions put away the Cardinals last weekend despite gaining just 218 total yards. Matt Stafford threw for just 101 yards. (5-8)"
+  },
+  {
+    "week": 15,
+    "ranking": 24,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "The Bucs fell to the highly favored Saints despite leading 14-3 at halftime last weekend. They then gave up 25 unanswered points. This is the story of the Bucs' season. (5-8)"
+  },
+  {
+    "week": 15,
+    "ranking": 25,
+    "team": "Cincinnati Bengals",
+    "blurb": "The Bengals have lost five consecutive games and Jeff Driskel isn't inspiring much confidence as their starting quarterback. But winnable games against the Raiders and Browns come next. (5-8)"
+  },
+  {
+    "week": 15,
+    "ranking": 26,
+    "team": "New York Jets",
+    "blurb": "The Jets topped the Bills last weekend to snap a six-game losing streak. That will provide little consolation in yet another lost season. (4-9)"
+  },
+  {
+    "week": 15,
+    "ranking": 27,
+    "team": "Buffalo Bills",
+    "blurb": "Rookie QB Josh Allen improbably leads the Bills with 490 rushing yards, 7.4 yards per carry and five rushing TDs this season. Unfortunately, wins haven't followed. (4-9)"
+  },
+  {
+    "week": 15,
+    "ranking": 28,
+    "team": "Jacksonville Jaguars",
+    "blurb": "The Jaguars have scored 15 points in their last two games. It appears benching Blake Bortles didn't solve Jacksonville's problems. (4-9)"
+  },
+  {
+    "week": 15,
+    "ranking": 29,
+    "team": "Atlanta Falcons",
+    "blurb": "How did Atlanta fall so far so fast? The Falcons have lost five consecutive games and counting. (4-9)"
+  },
+  {
+    "week": 15,
+    "ranking": 30,
+    "team": "Oakland Raiders",
+    "blurb": "It may not be the Miracle on Ice, but the Raiders pulled a major upset of the Steelers in Oakland last weekend. The Raiders can't be playoff contenders in 2018, but they still can be spoilers. (3-10)"
+  },
+  {
+    "week": 15,
+    "ranking": 31,
+    "team": "San Francisco 49ers",
+    "blurb": "George Kittle has been a bright spot in the 49ers' 3-10 season. The second-year tight end caught seven passes for 210 yards and a touchdown in a win over the Broncos last weekend. (3-10)"
+  },
+  {
+    "week": 15,
+    "ranking": 32,
+    "team": "Arizona Cardinals",
+    "blurb": "The Cardinals managed just three points in a 17-3 loss to the Lions last weekend. They've scored more than 20 points just twice this season. (3-10)"
+  },
+  {
+    "week": 16,
+    "ranking": 1,
+    "team": "New Orleans Saints",
+    "blurb": "After scoring at least 30 points in nine of their first 11 games, the Saints haven't reached that mark in their last three. Is there room for concern? We'll see. (12-2)"
+  },
+  {
+    "week": 16,
+    "ranking": 2,
+    "team": "Los Angeles Chargers",
+    "blurb": "The Chargers have won four consecutive games, the last three by five points or less. They may not have much of a fan base, but Phillip Rivers and Co. look primed for a playoff push. (11-3)"
+  },
+  {
+    "week": 16,
+    "ranking": 3,
+    "team": "Kansas City Chiefs",
+    "blurb": "The Chiefs have played four consecutive one-score games, winning two. Will that trend continue in Seattle on Sunday night? (11-3)"
+  },
+  {
+    "week": 16,
+    "ranking": 4,
+    "team": "Chicago Bears",
+    "blurb": "The Bears have officially wrapped up the NFC North. They lead the league with 26 interceptions, six more than any other team. But time will tell whether defense still wins championships. (10-4)"
+  },
+  {
+    "week": 16,
+    "ranking": 5,
+    "team": "Houston Texans",
+    "blurb": "J.J. Watt represents one of the best comeback stories in the NFL, with 14.5 sacks and six forced fumbles this season. The Texans will be tested against the Eagles on Sunday. (10-4)"
+  },
+  {
+    "week": 16,
+    "ranking": 6,
+    "team": "Los Angeles Rams",
+    "blurb": "What's wrong with the Rams? The NFC West champs have lost two straight games and Jared Goff has thrown just one touchdown pass with six interceptions in his last three. (11-3)"
+  },
+  {
+    "week": 16,
+    "ranking": 7,
+    "team": "Pittsburgh Steelers",
+    "blurb": "The Steelers are hoping to get running back James Conner back this week. They could certainly use him on the road against the 12-2 Saints. (8-5-1)"
+  },
+  {
+    "week": 16,
+    "ranking": 8,
+    "team": "New England Patriots",
+    "blurb": "Are the Patriots broken? They've lost back-to-back games against the Dolphins and Steelers. But season-ending games against the Bills and Jets should fix things. (9-5)"
+  },
+  {
+    "week": 16,
+    "ranking": 9,
+    "team": "Indianapolis Colts",
+    "blurb": "The Colts have been a big surprise this season, improving from 4-12 to 8-6. They shut out the Cowboys 23-0 last weekend. (8-6)"
+  },
+  {
+    "week": 16,
+    "ranking": 10,
+    "team": "Baltimore Ravens",
+    "blurb": "Lamar Jackson has set an NFL record for most rushes by a quarterback in his first five starts. But is that sustainable? Time will tell. (8-6)"
+  },
+  {
+    "week": 16,
+    "ranking": 11,
+    "team": "Tennessee Titans",
+    "blurb": "The Titans have won three consecutive games and allowed nine total points in their last two. Tennessee remains in the thick of the playoff hunt. (8-6)"
+  },
+  {
+    "week": 16,
+    "ranking": 12,
+    "team": "Seattle Seahawks",
+    "blurb": "Seattle was supposed to secure a playoff berth on the road against San Francisco last weekend. Instead, fans may need to wait until the season finale against Arizona. (8-6)"
+  },
+  {
+    "week": 16,
+    "ranking": 13,
+    "team": "Dallas Cowboys",
+    "blurb": "Dallas' defense is undisputed. The offense? Not so much. The Cowboys should close strong against the Bucs and Giants, however. (8-6)"
+  },
+  {
+    "week": 16,
+    "ranking": 14,
+    "team": "Minnesota Vikings",
+    "blurb": "Sure, the Vikings looked improved after firing offensive coordinator John DeFilippo last week. But they still need to win out to keep their playoff hopes alive. (7-6-1)"
+  },
+  {
+    "week": 16,
+    "ranking": 15,
+    "team": "Philadelphia Eagles",
+    "blurb": "Nick Foles is Philadelphia's starting quarterback once again, but a lot would have to go right for the Eagles to sneak into the playoffs. (7-7)"
+  },
+  {
+    "week": 16,
+    "ranking": 16,
+    "team": "Cleveland Browns",
+    "blurb": "Yes, it's exciting that the Browns are 6-7-1 after failing to win a game last year. But remember, they're also two overtime losses from being a serious playoff contender. (6-7-1)"
+  },
+  {
+    "week": 16,
+    "ranking": 17,
+    "team": "Miami Dolphins",
+    "blurb": "The Dolphins didn't show up in Minnesota last weekend but could still finish with a flurry against the Jaguars and Bills. (7-7)"
+  },
+  {
+    "week": 16,
+    "ranking": 18,
+    "team": "Washington",
+    "blurb": "Washington's playoff chances remain remote, with its final two games coming against equally desperate playoff hopefuls in the Titans and Eagles. (7-7)"
+  },
+  {
+    "week": 16,
+    "ranking": 19,
+    "team": "Carolina Panthers",
+    "blurb": "On Nov. 4, the Panthers were 6-2. Six consecutive losses later, Cam Newton and Co. are officially done. (6-8)"
+  },
+  {
+    "week": 16,
+    "ranking": 20,
+    "team": "Cincinnati Bengals",
+    "blurb": "The Bengals couldn't survive the loss of Andy Dalton, losing five consecutive games. But a win over the Raiders last weekend should numb the pain a bit. (6-8)"
+  },
+  {
+    "week": 16,
+    "ranking": 21,
+    "team": "Denver Broncos",
+    "blurb": "Right when the Broncos seemed primed for a playoff push, they lost to the 49ers and Browns. The seat might start getting hot for Vance Joseph. (6-8)"
+  },
+  {
+    "week": 16,
+    "ranking": 22,
+    "team": "Green Bay Packers",
+    "blurb": "The Packers lost to the rival Bears last weekend and then put starting running back Aaron Jones on IR with a knee injury. They should probably consider sitting Aaron Rodgers, too. (5-8-1)"
+  },
+  {
+    "week": 16,
+    "ranking": 23,
+    "team": "Atlanta Falcons",
+    "blurb": "The Falcons might be the biggest disappointment in the NFC, but you wouldn't have known it in a thorough 40-14 win over the Cardinals last weekend. (5-9)"
+  },
+  {
+    "week": 16,
+    "ranking": 24,
+    "team": "New York Giants",
+    "blurb": "After winning four of their previous five games, the Giants' offense disappeared in a shutout loss to the Titans last weekend. They might not fare much better against the Colts and Cowboys. (5-9)"
+  },
+  {
+    "week": 16,
+    "ranking": 25,
+    "team": "Buffalo Bills",
+    "blurb": "No, he's not an accurate passer. But if you're looking for bright spots in Buffalo, rookie quarterback Josh Allen has surprised many with his legs. (5-9)"
+  },
+  {
+    "week": 16,
+    "ranking": 26,
+    "team": "Detroit Lions",
+    "blurb": "The Lions have yet to score more than 17 points in their last four games. But the good news is the regular season is almost over. (5-9)"
+  },
+  {
+    "week": 16,
+    "ranking": 27,
+    "team": "Tampa Bay Buccaneers",
+    "blurb": "The Bucs offense that surprised so many early on has scored an average of 13 points in their last two games, both losses. Anchors down. (5-9)"
+  },
+  {
+    "week": 16,
+    "ranking": 28,
+    "team": "San Francisco 49ers",
+    "blurb": "The good news: Nick Mullens and the 49ers have won two straight games. The bad news: they close the season against the Bears and Rams. (4-10)"
+  },
+  {
+    "week": 16,
+    "ranking": 29,
+    "team": "New York Jets",
+    "blurb": "Since returning from injury, rookie quarterback Sam Darnold has completed 64.5 percent of his passes with three touchdowns and one interception in his last three games. (4-10)"
+  },
+  {
+    "week": 16,
+    "ranking": 30,
+    "team": "Jacksonville Jaguars",
+    "blurb": "The Jaguars lost to Washington and quarterback Josh Johnson last weekend. So that tells you how bad things are in Jacksonville. (4-10)"
+  },
+  {
+    "week": 16,
+    "ranking": 31,
+    "team": "Oakland Raiders",
+    "blurb": "It's not entirely clear where the Raiders will play in 2019. If they keep fielding this roster, maybe they shouldn't be playing at all. (3-11)"
+  },
+  {
+    "week": 16,
+    "ranking": 32,
+    "team": "Arizona Cardinals",
+    "blurb": "The Cardinals close the regular season with two divisional foes with serious playoff aspirations in the Rams and Seahawks. This could get ugly. (3-11)"
   }
 ]
